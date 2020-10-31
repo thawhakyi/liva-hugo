@@ -7,14 +7,18 @@ draft: false
 image: "images/author.jpg"
 
 # meta description
-description: "this is meta description"
+description: "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌ြမဲပါစေ"
 
 # type
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+🍂🍃Falling for you 🍂🍃
+☕Stressed, blessed, and coffee obsessed ☕
+Having the time of my life ⏰🎉
+Looking at the world through 🌹colored glasses
+I’m sweet like honey 🍯
+Don’t study me. You won’t graduate 🎓
+🌟Sending my selfies to NASA because I’m a star 🌟
+Please cancel my subscription to your issues
+Status Update: Currently hungry 🍔🍟🌭🌮🥗🍪
