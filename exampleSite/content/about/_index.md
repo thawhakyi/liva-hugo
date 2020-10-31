@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "ယနေ့ကြွလာ မိတ်သဟာ ချမ်းသာ ကိုယ်စိတ်မြဲပါစေ"
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -10,7 +10,7 @@ image: "images/author.jpg"
 description: "ယနေ့ကြွလာ မိတ်သဟာ ချမ်းသာ ကိုယ်စိတ်မြဲပါစေ"
 
 # type
-type : "ယနေ့ကြွလာ မိတ်သဟာ ချမ်းသာ ကိုယ်စိတ်မြဲပါစေ"
+type : "About"
 ---
 
 Hi! I am Cgမ. Am I cute?
