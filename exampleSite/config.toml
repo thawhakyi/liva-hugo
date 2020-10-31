@@ -50,10 +50,10 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Posts"
   URL = "blog"
   weight = 2
-
+  
   [[menu.main]]
   name = "Contact"
   URL = "contact"
@@ -81,21 +81,21 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌ြမဲပါစေ"
+author = "Cgမ"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "သုန်ညကိုးသုန်ညသုန်ညဘဲဥ၃လုံး"
+email = "cg@coolncrazy.co"
+location = "Ela, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 [Cool n' Crazy](https://coolncrazy.co) | All Rights Reserved. |"
 
   # Preloader
   [params.preloader]
   enable = true
-  preloader = "" # use .png , .svg or .gif format
+  preloader = "images/preloader.gif" # use .png , .svg or .gif format
 
   # search
   [params.search]
