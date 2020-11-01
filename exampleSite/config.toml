@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://coolncrazy.co"
 languageCode = "en-us"
-title = "Cool n' Crazy"
+title = "Cool n' Crazy | Just a blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -47,13 +47,13 @@ disqusShortname = ""
   [[menu.main]]
   name = "Home"
   URL = "#"
-  weight = 1
+  weight = 1  
 
   [[menu.main]]
   name = "Blog"
   URL = "blog"
   weight = 2
-
+  
   [[menu.main]]
   name = "About"
   URL = "about"
