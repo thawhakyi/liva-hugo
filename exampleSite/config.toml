@@ -4,41 +4,41 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "liva-hugo"
-title = "Cool n' Crazy | Just a blog"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 2
+title = "Cool n' Crazy | Just a little blog."
 [[menu.footer]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 3
-[[menu.main]]
+[[menu.footer]]
 URL = "blog"
 name = "Blog"
 weight = 2
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [[menu.main]]
 URL = "#"
 name = "Home"
 weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Cgမ"
+author = "Cg"
 copyright = "| copyright &copy; 2020 [Cool n' Crazy](https://coolncrazy.co) | All Rights Reserved. |"
-description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌ြမဲပါစေ"
+description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌မြဲပါစေ"
 email = "cg@coolncrazy.co"
 googleAnalitycsID = "Your ID"
 home = "Home"
