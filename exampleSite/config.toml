@@ -6,9 +6,6 @@ summaryLength = "10"
 theme = "liva-hugo"
 title = "Cool n' Crazy | Just a blog"
 [[menu.footer]]
-name = "Home"
-weight = 4
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 3
