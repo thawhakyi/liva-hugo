@@ -5,7 +5,7 @@ title = "Cool n' Crazy | Just a blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "charminggirl_cg"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
