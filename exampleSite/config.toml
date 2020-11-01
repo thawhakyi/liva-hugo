@@ -1,146 +1,104 @@
-######################## default configuration ####################
 baseURL = "https://coolncrazy.co"
-languageCode = "en-us"
-title = "Cool n' Crazy | Just a blog"
-theme = "liva-hugo"
-summaryLength = "10"
-paginate = 6
 disqusShortname = "charminggirl_cg"
-
+languageCode = "en-us"
+paginate = 6
+summaryLength = "10"
+theme = "liva-hugo"
+title = "Cool n' Crazy | Just a blog"
+[[menu.footer]]
+name = "Home"
+weight = 4
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "#"
+name = "Home"
+weight = 1
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/venobox/venobox.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/venobox/venobox.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-
-
-############################## navigation ###############################
-[menu]
-
-  # main menu
-  [[menu.main]]
-  name = "Home"
-  URL = "#"
-  weight = 1  
-
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-  
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 3
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 4
-
-  # footer menu
-  [[menu.footer]]
-  name = "About"
-  URL = "about"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
-
-
-#################### default parameters ################################
+home = ["HTML", "RSS", "JSON"]
 [params]
-logo = "images/logo.png"
-home = "Home"
-# Meta data
-description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌ြမဲပါစေ"
 author = "Cgမ"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# Contact Information
-mobile = "သုန်ညကိုးသုန်ညသုန်ညဘဲဥ၃လုံး"
-email = "cg@coolncrazy.co"
-location = "Ela, Bangladedsh"
-# copyright
 copyright = "| copyright &copy; 2020 [Cool n' Crazy](https://coolncrazy.co) | All Rights Reserved. |"
-
-  # Preloader
-  [params.preloader]
-  enable = true
-  preloader = "images/preloader.gif" # use .png , .svg or .gif format
-
-  # search
-  [params.search]
-  enable = true
-
-############################ news letter ########################
-[params.newsletter]
-enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
-
-
-# cookies
+description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌ြမဲပါစေ"
+email = "cg@coolncrazy.co"
+googleAnalitycsID = "Your ID"
+home = "Home"
+location = "Ela, Bangladedsh"
+logo = "images/logo.png"
+mobile = "သုန်ညကိုးသုန်ညသုန်ညဘဲဥ၃လုံး"
 [params.cookies]
 enable = true
 expire_days = 2
-
-
-############################# social site ########################
+[params.newsletter]
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+enable = true
+title = "Join Our Newsletter"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/venobox/venobox.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif"
+[params.search]
+enable = true
 [[params.social]]
+icon = "ti-facebook"
+link = "#"
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-instagram"
+link = "#"
 title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
+icon = "ti-github"
+link = "#"
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "ti-linkedin"
 link = "#"
+title = "linkedin"
