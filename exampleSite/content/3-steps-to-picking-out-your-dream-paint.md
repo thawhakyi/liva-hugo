@@ -2,7 +2,7 @@
 categories = ["lifestyle"]
 date = 2020-10-31T17:30:00Z
 description = "important facts to paint your house"
-image = "/images/5f9eca76af3bf.jpg"
+image = "/images/post-9.jpg"
 tags = ["paint", "home", "high-quality", "home decoration"]
 title = "3 Steps to Picking out Your Dream Paint."
 type = "post"
