@@ -38,11 +38,11 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Cg"
 copyright = "| copyright &copy; 2020 [Cool n' Crazy](https://coolncrazy.co) | All Rights Reserved. |"
-description = "ယနေ့ကြွလာမိတ်သဟာ ချမ်းသာကိုယ်စိတ်‌မြဲပါစေ"
+description = "Be Cool"
 email = "cg@coolncrazy.co"
 googleAnalitycsID = "Your ID"
 home = "Home"
-location = "Ela, Bangladedsh"
+location = "7237-7103 68 Ave NW Edmonton, AB Canada"
 logo = "images/logo.png"
 mobile = "သုန်ညကိုးသုန်ညသုန်ညဘဲဥ၃လုံး"
 [params.cookies]
